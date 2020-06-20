@@ -1,4 +1,5 @@
 #include <iostream>
+
 using namespace std;
 
 class Solution {
@@ -27,5 +28,5 @@ int main(){
     output = obj_steps.numberOfSteps(number);
 
     cout << output << endl;
-    
+
 }
