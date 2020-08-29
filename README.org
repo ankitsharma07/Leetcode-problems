@@ -2,23 +2,7 @@
 #+tags: easy medium hard
 
 * Problem and Solution Links for different approaches taken
-| Question                         | Solution 1 | Solution 2 | Solution 3 |
+| Question                         | Approach 1 | Approach 2 | Approach 3 |
 |----------------------------------+------------+------------+------------|
 | 5. Longest Palindromic Substring |            |            |            |
-
-* Problems
-** 5. Longest Palindromic Substring
-Given a string s, find the longest palindromic substring in s. You may assume
-that the maximum length of s is 1000.
-
-Example:
-*Input*: "babad"
-*Output*: "bab"
-*Note*: "aba" is also a valid answer.
-
-*Approach 1*
-Brute force
-Produce all possible substrings O(n^2)
-Check if Palindrome O(n)
-
-Overall complexity: O(n^3)
+| 226. [[https://leetcode.com/problems/invert-binary-tree/][Invert binary tree]]          |            |            |            |
