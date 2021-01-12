@@ -1,8 +1,8 @@
 #+TITLE: All the possible approaches for a problem statement
 #+tags: easy medium hard
 
-* Problem and Solution Links for different approaches taken
-| Question                         | Approach 1 | Approach 2 | Approach 3 |
-|----------------------------------+------------+------------+------------|
-| 5. Longest Palindromic Substring |            |            |            |
-| 226. [[https://leetcode.com/problems/invert-binary-tree/][Invert binary tree]]          |            |            |            |
+
+* Some important ones
+| Problem                        | Approach 1 | Approach 2 | Approach 3 | Difficulty |
+|--------------------------------+------------+------------+------------+------------|
+| 287. Find the Duplicate Number |            |            |            |            |
