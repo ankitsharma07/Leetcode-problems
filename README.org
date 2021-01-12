@@ -1,12 +1,17 @@
 #+TITLE: All the possible approaches for a problem statement
-#+tags: easy medium hard
+#+startup: overview
 
 
 * Some important ones
-| Problem                        | Approach 1               | Approach 2    | Approach 3 | Difficulty |
-|--------------------------------+--------------------------+---------------+------------+------------|
-| 287. Find the Duplicate Number | [[https://github.com/ankitsharma07/Leetcode-problems/blob/master/287_duplicates.cpp][using index frequency]]    | [[https://github.com/ankitsharma07/Leetcode-problems/blob/master/287_using_sorting.cpp][using sorting]] |            | Medium     |
-| 75. Sort Colors                | [[https://github.com/ankitsharma07/Leetcode-problems/blob/master/75_sort_colors.cpp][using 3 way partitioning]] |               |            | Easy       |
+| Problems                       | Approach 1               | Approach 2    | Approach 3 | Difficulty | Tags   |
+|--------------------------------+--------------------------+---------------+------------+------------+--------|
+| 287. Find the Duplicate Number | [[https://github.com/ankitsharma07/Leetcode-problems/blob/master/287_duplicates.cpp][using index frequency]]    | [[https://github.com/ankitsharma07/Leetcode-problems/blob/master/287_using_sorting.cpp][using sorting]] |            | Medium     | arrays |
+| 75. Sort Colors                | [[https://github.com/ankitsharma07/Leetcode-problems/blob/master/75_sort_colors.cpp][using 3 way partitioning]] |               |            | Easy       | arrays |
+|                                |                          |               |            |            |        |
 
 
 * Dynamic Programming
+| Problems                             | Solution              | Difficulty |
+|--------------------------------------+-----------------------+------------|
+| 70. Climbing Stairs                  | [[https://github.com/ankitsharma07/Leetcode-problems/blob/master/70_Climbing_stairs.cpp][climbing stairs]]       | Easy       |
+| 121. Best Time to Buy and Sell Stock | [[https://github.com/ankitsharma07/Leetcode-problems/blob/master/121_BestTimeToBuyAndSellStocks.cpp][buy and sell stocks 1]] | Easy       |
