@@ -3,6 +3,10 @@
 
 
 * Some important ones
-| Problem                        | Approach 1 | Approach 2 | Approach 3 | Difficulty |
-|--------------------------------+------------+------------+------------+------------|
-| 287. Find the Duplicate Number |            |            |            |            |
+| Problem                        | Approach 1               | Approach 2    | Approach 3 | Difficulty |
+|--------------------------------+--------------------------+---------------+------------+------------|
+| 287. Find the Duplicate Number | [[https://github.com/ankitsharma07/Leetcode-problems/blob/master/287_duplicates.cpp][using index frequency]]    | [[https://github.com/ankitsharma07/Leetcode-problems/blob/master/287_using_sorting.cpp][using sorting]] |            | Medium     |
+| 75. Sort Colors                | [[https://github.com/ankitsharma07/Leetcode-problems/blob/master/75_sort_colors.cpp][using 3 way partitioning]] |               |            | Easy       |
+
+
+* Dynamic Programming
