@@ -9,9 +9,22 @@
 | 75. Sort Colors                | [[https://github.com/ankitsharma07/Leetcode-problems/blob/master/75_sort_colors.cpp][using 3 way partitioning]] |               |            | Easy       | arrays |
 |                                |                          |               |            |            |        |
 
-
 * Dynamic Programming
 | Problems                             | Solution              | Difficulty |
 |--------------------------------------+-----------------------+------------|
 | 70. Climbing Stairs                  | [[https://github.com/ankitsharma07/Leetcode-problems/blob/master/70_Climbing_stairs.cpp][climbing stairs]]       | Easy       |
 | 121. Best Time to Buy and Sell Stock | [[https://github.com/ankitsharma07/Leetcode-problems/blob/master/121_BestTimeToBuyAndSellStocks.cpp][buy and sell stocks 1]] | Easy       |
+
+* Stacks
+| Problems                                    | Solution | Difficulty level |
+|---------------------------------------------+----------+------------------|
+| 1673. Find the Most Competitive Subsequence |          |                  |
+| 1425. Constrained Subsequence Sum           |          |                  |
+| 1130. Minimum Cost Tree From Leaf Values    |          |                  |
+| 907. Sum of Subarray Minimums               |          |                  |
+| 901. Online Stock Span                      |          |                  |
+| 856. Score of Parentheses                   |          |                  |
+| 503. Next Greater Element II                |          |                  |
+| 496. Next Greater Element I                 |          |                  |
+| 84. Largest Rectangle in Histogram          |          |                  |
+| 42. Trapping Rain Water                     |          |                  |
