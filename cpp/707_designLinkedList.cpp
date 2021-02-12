@@ -1,16 +1,32 @@
+#include <__nullptr>
 #include <iostream>
 using namespace std;
 
+
+struct Node {
+    int value;
+    Node *next;
+    Node(int x) : value(x), next(nullptr) {};
+};
+
+
 class MyLinkedList {
 public:
-    /** Initialize your data structure here. */
+        /** Initialize your data structure here. */
+        Node *head;
+        Node *tail;
+        int size;
+
     MyLinkedList() {
-        
+        head = tail = nullptr;
+        size = 0;
     }
     
     /** Get the value of the index-th node in the linked list. If the index is invalid, return -1. */
     int get(int index) {
-        
+        auto temp = head;
+
+        for(; )
     }
     
     /** Add a node of value val before the first element of the linked list. After the insertion, the new node will be the first node of the linked list. */
